@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ian Hunter",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "http://ianhunter.ie/data/profile.jpg",
+    "email": "mygithubusername@gmail.com",
+    "phone": "On Request Only",
+    "website": "https://ianhunter.ie",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -18,40 +18,29 @@
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/ianfhunter"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://bit.ly/ianlinkedin"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Genealogy",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Family History"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Travel",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Photography",
       "keywords": [
       ]
     }
@@ -63,40 +52,40 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Bash"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Linux",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "VS Code"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Trinity College Dublin, Ireland",
+      "area": "Computer Science",
+      "studyType": "B.A.(Mod)",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-30",
+      "gpa": "I",
       "courses": [
+        "Computer Vision",
+        "Advanced Computer Architecture"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Wonga",
+      "position": "DevOps",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
