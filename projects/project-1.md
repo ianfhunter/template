@@ -1,4 +1,3 @@
-
 ---
 layout: project
 type: project
@@ -13,7 +12,6 @@ labels:
   - Java
 summary: I developed an app for conference attendees that was used by several Irish conventions.
 ---
-
 
 Androkon is a convention organiser app for android, aiming to detail all the animation and videogame related conventions around Ireland.  
   
