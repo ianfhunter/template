@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "http://ianhunter.ie/data/profile.jpg",
     "email": "mygithubusername@gmail.com",
-    "phone": "On Request Only",
+    "phone": "Phone On Request Only",
     "website": "https://ianhunter.ie",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -17,12 +17,12 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "ianfhunter",
         "url": "http://github.com/ianfhunter"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "ianfhunter",
         "url": "http://bit.ly/ianlinkedin"
       }
     ]
@@ -36,6 +36,11 @@
     },
     {
       "name": "Travel",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Herbal Tea",
       "keywords": [
       ]
     },
@@ -84,69 +89,78 @@
   ],
   "work": [
     {
+      "company": "GetBulb",
+      "position": "Coding Intern",
+      "website": "http://www.getbulb.com/",
+      "startDate": "2012-04-01",
+      "endDate": "2012-10-01",
+      "summary": "Frontend Web Development",
+      "highlights": [
+        "Early Startup Environment",
+        "One of two developers"
+      ]
+    },
+    {
+      "company": "Fullstack",
+      "position": "Developer",
+      "website": "http://www.fullstack.io/",
+      "startDate": "2013-07-01",
+      "endDate": "2013-10-01",
+      "summary": "Multi-domain outsourced projects",
+      "highlights": [
+        "Multiple client-based projects",
+        "Full client responsibility"
+      ]
+    },
+    {
       "company": "Wonga",
       "position": "DevOps",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2014-08-01",
+      "endDate": "2015-08-01",
+      "summary": "QoL Engineering",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Movidius/Intel",
+      "position": "Embedded Vision Engineer",
+      "website": "",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Full Neural Network USB Accellerator Lifecycle developer",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Resource Constrained Enviroments, Performance Criteria"
       ]
-    }
+    },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Stack Exchange",
+      "website": "http://anime.stackexchange.com",
+      "position": "Moderator",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Community Management",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "TODO"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's Roll of Honour",
+      "date": "2013",
+      "awarder": "Trinity College Dublin",
+      "summary": "Awarded for significant college society changes."
     },
     {
       "title": "First place",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Dublin University Computer Science Society Game Contest",
+      "summary": "Programming Contest."
     }
   ],
   "references": [
