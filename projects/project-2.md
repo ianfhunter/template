@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cover-weeabeu.png
+image: images/bust-weeabeu.png
 title: Vacay
 permalink: projects/weeabeu
 # All dates must be YYYY-MM-DD format!
