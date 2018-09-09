@@ -29,7 +29,9 @@
         <div class="description">
           Interests:
           {% for interest in site.data.bio.interests %}
+            <span class="ran_col_interest">
             {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+            </span>
           {% endfor %}
 
         </div>
