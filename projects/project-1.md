@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/androkon_logo.png
 title: Androkon
 permalink: projects/androkon
 # All dates must be YYYY-MM-DD format!
@@ -13,13 +13,6 @@ labels:
   - Java
 summary: I developed an app for conference attendees that was used by several Irish conventions.
 ---
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
 
 Androkon is a convention organiser app for android, aiming to detail all the animation and videogame related conventions around Ireland.  
