@@ -5,7 +5,7 @@ image: images/cover-weeabeu.png
 title: Vacay
 permalink: projects/weeabeu
 # All dates must be YYYY-MM-DD format!
-date: 2013-
+date: 2013
 labels:
   - Blogging
   - Web Design
