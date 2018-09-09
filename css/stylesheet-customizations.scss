@@ -21,5 +21,8 @@ body {
 }
 
 .ran_col_interest:nth-child(even){
-  color: red; 
+  color: #5d5d5d; 
+}
+.ran_col_interest:nth-child(odd){
+  color: #a9a9a9; 
 }
