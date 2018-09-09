@@ -30,48 +30,39 @@
   "interests": [
     {
       "name": "Genealogy",
-      "keywords": [
-        "Family History"
-      ]
+      "keywords": []
+    },
+    {
+      "name": "History",
+      "keywords": []
     },
     {
       "name": "Board Games",
-      "keywords": [
-        "Gaming"
-      ]
+      "keywords": []
     },
     {
       "name": "Tabletop RPGs",
-      "keywords": [
-        "Gaming"
-      ]
+      "keywords": []
     },    
     {
       "name": "Anime & Manga",
-      "keywords": [
-        "Literature"
-      ]
+      "keywords": []
     }, 
     {
       "name": "Fantasy Novels",
-      "keywords": [
-        "Literature"
-      ]
+      "keywords": []
     },
     {
       "name": "Travel",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Tea & Coffee",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Photography",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -83,17 +74,44 @@
         "C++",
         "Python",
         "Javascript",
-        "Bash"
+        "Bash",
+        "Powershell",
+        "Assembly",
+        "HTML5 & CSS3",
+        "SVG",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Domains",
+      "level": "",
+      "keywords": [
+        "Algorithms",
+        "Computer Vision",
+        "Continual Integration",
+        "User Experience",
+        "Front-end Development",
+        "Fullstack Development",
+        "Protyping",
+        "Refactoring",
+        "Testing",
+        "Project Planning",
+        "Agile Development"
+      ]
+    },
+    {
+      "name": "Tools / Platforms",
       "level": "",
       "keywords": [
         "Linux",
         "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "VS Code"
+        "VS Code",
+        "SVN",
+        "Gimp",
+        "Eclipse",
+        "Jenkins",
+        "Thoughtworks GO"
       ]
     }
   ],
