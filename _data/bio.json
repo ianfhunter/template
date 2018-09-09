@@ -35,12 +35,36 @@
       ]
     },
     {
+      "name": "Board Games",
+      "keywords": [
+        "Gaming"
+      ]
+    },
+    {
+      "name": "Tabletop RPGs",
+      "keywords": [
+        "Gaming"
+      ]
+    },    
+    {
+      "name": "Anime & Manga",
+      "keywords": [
+        "Literature"
+      ]
+    }, 
+    {
+      "name": "Fantasy Novels",
+      "keywords": [
+        "Literature"
+      ]
+    },
+    {
       "name": "Travel",
       "keywords": [
       ]
     },
     {
-      "name": "Herbal Tea",
+      "name": "Tea & Coffee",
       "keywords": [
       ]
     },
