@@ -17,5 +17,5 @@ As part of the final year of our B.A. (Mod) Degrees, We had to design a software
 We formed a team under the name "Team Crab", and our project went on to be graded highest.
 
 <img class="ui medium right floated rounded image" src="../images/tc_map.png">
-<img class="ui medium right floated rounded image" src="../images/tc_interventions.png">
-<img class="ui medium right floated rounded image" src="../images/tc_endgame.png">
+<img class="ui medium right floated rounded image" src="../images/tc-interventions.png">
+<img class="ui medium right floated rounded image" src="../images/tc-endgame.png">
