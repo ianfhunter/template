@@ -83,7 +83,20 @@
       "gpa": "I",
       "courses": [
         "Computer Vision",
-        "Advanced Computer Architecture"
+        "Advanced Computer Architecture",
+        "Computer Graphics",
+        "Distributed Systems",
+        "Human Factors"
+      ]
+    },
+    {
+      "institution": "Trinity College Dublin, Ireland",
+      "area": "Computer Science (Research)",
+      "studyType": "M.Sc",
+      "startDate": "2010-09-01",
+      "endDate": "Prospective 2019-08-30",
+      "gpa": "",
+      "courses": [
       ]
     }
   ],
