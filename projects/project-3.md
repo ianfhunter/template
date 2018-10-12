@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/deer.png
 title: Deer Game Series
 permalink: projects/deer_game
 # All dates must be YYYY-MM-DD format!
