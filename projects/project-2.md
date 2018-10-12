@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/bust-weeabeu.jpg
-title: Vacay
+title: Weeab.eu
 permalink: projects/weeabeu
 # All dates must be YYYY-MM-DD format!
 date: 2013-01-01
