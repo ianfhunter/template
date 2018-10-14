@@ -22,6 +22,7 @@ Repeat until your grid is populated.
 Here’s what this looks like with a simple heat map in 2D:
 
 **image**
+![2d Heatmap](images/dq_heatmap-2d.png)
 
 
 And in 3D:
