@@ -30,7 +30,7 @@ Here’s what this looks like with a simple heat map in 2D:
 And in 3D:
 
 ![3d Heatmap #1](https://ianfhunter.github.io/images/ds_heatmap-3d.png)
-![3d Heatmap #2](https://ianfhunter.github.io/images/terrain-map-3d.png) 
+<img src="https://ianfhunter.github.io/images/terrain-map-3d.png" alt="3D Heatmap #2" width="800"/>
 
 This is a very simple algorithm to implement, but quite effective for what it does. You can change the random variant to increase the choppiness/smoothness of the resultant graph. The more points in the grid, the better this looks. Take this high-N example from playful.js for example:
 
