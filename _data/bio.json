@@ -43,11 +43,11 @@
     {
       "name": "Tabletop RPGs",
       "keywords": []
-    },    
+    },
     {
       "name": "Anime & Manga",
       "keywords": []
-    }, 
+    },
     {
       "name": "Fantasy Novels",
       "keywords": []
@@ -62,6 +62,14 @@
     },
     {
       "name": "Photography",
+      "keywords": []
+    },
+    {
+      "name": "Craft",
+      "keywords": []
+    },
+    {
+      "name": "Ethnography",
       "keywords": []
     }
   ],
@@ -78,7 +86,7 @@
         "Powershell",
         "Assembly",
         "HTML5 & CSS3",
-        "SVG",
+        "SVG"
       ]
     },
     {
@@ -90,8 +98,8 @@
         "Continual Integration",
         "User Experience",
         "Front-end Development",
-        "Fullstack Development",
-        "Protyping",
+        "Full-stack Development",
+        "Prototyping",
         "Refactoring",
         "Testing",
         "Project Planning",
@@ -152,7 +160,8 @@
       "summary": "Frontend Web Development",
       "highlights": [
         "Early Startup Environment",
-        "One of two developers"
+        "One of two staff members",
+        "Adaptive 3D Elliptical Pie Chart & Others"
       ]
     },
     {
@@ -164,7 +173,8 @@
       "summary": "Multi-domain outsourced projects",
       "highlights": [
         "Multiple client-based projects",
-        "Full client responsibility"
+        "Full client responsibility",
+        "User Experience, Adapting to customer requests"
       ]
     },
     {
@@ -175,8 +185,10 @@
       "endDate": "2015-08-01",
       "summary": "QoL Engineering",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Rewrite & maintain build & release scripts",
+        "Significant AWS cost reduction through algorithmic proposal & implementation",
+        "'Path to Live' Speedups",
+        "Separation from monolithic joint repository to Individual team code base"
       ]
     },
     {
@@ -185,11 +197,18 @@
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Full Neural Network USB Accellerator Lifecycle developer",
+      "summary": "Full Neural Network USB Accelerator Lifecycle developer",
       "highlights": [
-        "Resource Constrained Enviroments, Performance Criteria"
+        "Resource Constrained Environments, Performance Criteria",
+        "Presented at release announcement conference",
+        "Working with several different culture teams",
+        "Evolved from direct customer interaction to managed releases",
+        "Future Design Proposals & Development",
+        "Infrastructure, Testing, Core Development, Driver Development",
+        "Lead several road-maps with frontend development, serialization, interface",
+        "Adaption to new hardware"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
