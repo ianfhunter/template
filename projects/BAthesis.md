@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: iamges/ch_extension.png
+image: images/ch_extension.png
 title: Bachelor's Thesis
 permalink: projects/sw_sim
 # All dates must be YYYY-MM-DD format!
