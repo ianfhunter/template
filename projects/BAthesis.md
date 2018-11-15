@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ch_extension.png
 title: Bachelor's Thesis
-permalink: projects/sw_sim
+permalink: projects/bathesis
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
