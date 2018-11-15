@@ -7,10 +7,13 @@ permalink: projects/mathesis
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - PHP
-  - HTML
-  - Javascript
-summary: Optimizing Web Content Download in Low-Performance Networks.
+  - Neural Networks
+  - Caffe
+  - PyTorch
+  - Tensorflow
+  - Python
+  - C++
+summary: TBA
 ---
 
 In Progress
