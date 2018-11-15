@@ -9,7 +9,7 @@ date: 2014-04-12
 labels:
   - Python
   - Qt
-summary: Optimizing Web Content Download in Low-Performance Networks.
+summary: Tools for making Mapmaking faster.
 ---
 
 In Progress. v1 to be released soon + open sourced.
