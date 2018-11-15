@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wq_progress.png
 title: WordQuest
-permalink: projects/sw_sim
+permalink: projects/wquest
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
