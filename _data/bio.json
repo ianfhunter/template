@@ -244,5 +244,133 @@
       "name": "Available upon request",
       "reference": ""
     }
+  ],
+  "achievements": [
+    {
+      "title": "Ice Skating Emerald Level 3",
+      "awarder": "Ice Skating Association of Ireland",
+      "achievement_level": "low",
+      "date": "2018"
+    },
+    {
+      "title": "Entrance Scholarship",
+      "awarder": "King's Hospital",
+      "achievement_level": "medium",
+      "date": "2003"
+    },
+    {
+      "title": "Best Final Year Project [Poster & Question Session]",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "high",
+      "date": "2018"
+    },
+    {
+      "title": "Dean's Role of Honour",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "medium",
+      "date": "2013"
+    },
+    {
+      "title": "PyGame Competition Winner",
+      "awarder": "Trinity College Dublin Computer Science Society",
+      "achievement_level": "medium",
+      "date": "2012"
+    },
+    {
+      "title": "Moderator & Top 3 Ranking",
+      "awarder": "Anime & Manga Stack Exchange",
+      "achievement_level": "medium",
+      "date": "2018"
+    },
+    {
+      "title": "All-Ireland Cross-Country Medal Winner",
+      "awarder": "Athletics Ireland",
+      "achievement_level": "medium",
+      "date": "2018"
+    },
+    {
+      "title": "An Introduction to Japanese Subcultures",
+      "awarder": "Keio University (FutureLearn)",
+      "achievement_level": "low",
+      "date": "2018"
+    },
+    {
+      "title": "Innovation: the Fashion Industry",
+      "awarder": "University of Leeds (FutureLearn)",
+      "achievement_level": "low",
+      "date": "2018"
+    },
+    {
+      "title": "How to run successful projects",
+      "awarder": "ETP Ireland",
+      "achievement_level": "medium",
+      "date": "2018"
+    },
+    {
+      "title": "Introduction to Japanese Language and Culture",
+      "awarder": "FutureLearn",
+      "achievement_level": "low",
+      "date": "2018"
+    },
+    {
+      "title": "Post-beginners' Japanese Language and Culture",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "medium",
+      "date": "2018"
+    },
+    {
+      "title": "Europe, 1000-1250: War, Government and Society in the Age of the Crusades",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "medium",
+      "date": "2018"
+    },
+    {
+      "title": "Enviromental Challenges: Hierarchy in Property Rights",
+      "awarder": "University of Leeds (FutureLearn)",
+      "achievement_level": "low",
+      "date": "2018"
+    },
+    {
+      "title": "Genealogy: Researching your Family Tree",
+      "awarder": "University of Strathclyde (FutureLearn)",
+      "achievement_level": "low",
+      "date": "2018"
+    },
+    {
+      "title": "Warrior's Run, Sligo",
+      "awarder": "Warrior's Festival",
+      "achievement_level": "medium",
+      "date": "2012"
+    },
+    {
+      "title": "Computer Science B.A(Mod) I.",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "high",
+      "date": "2014"
+    },
+    {
+      "title": "DU Pirate Party Comittee",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "medium",
+      "date": "2011-2013"
+    },
+    {
+      "title": "DU Computer Science Comittee",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "low",
+      "date": "2012"
+    },
+    {
+      "title": "Introduction to Computer Science",
+      "awarder": "Univesity College Dublin",
+      "achievement_level": "low",
+      "date": "2009"
+    },
+    {
+      "title": "College Class Representative",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "medium",
+      "date": "2013"
+    }
   ]
 }

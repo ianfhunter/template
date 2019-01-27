@@ -1,0 +1,27 @@
+<!-- Used by theme-bio-builtin-1 -->
+
+{% if site.data.bio.achievements %}
+<div class="row">
+  <div class="two wide column" style="width:100% !important; padding-top: 20px">
+    <h3 class="ui left aligned header no-bottom" >Achievements</h3>
+  </div>
+
+  <div class="fourteen wide column no-bottom cert">
+    {% for entry in site.data.bio.achievements %}
+
+    <div class="ui grid cert-box">
+      <div class="sixteen wide column no-bottom">
+        <div class="badge {% if entry.achievement_level == "low" %}low{% endif %} {% if entry.achievement_level == "medium" %}medium{% endif %} {% if entry.achievement_level == "high" %}high{% endif %}">
+
+        </div>
+        <p class="ui no-bottom titletext">
+          <b>{{ entry.title }}</b><br />{{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
+        </p>
+        <!-- <p class="ui">{{ entry.summary }}</p> -->
+      </div>
+    </div>
+
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
