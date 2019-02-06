@@ -2,8 +2,10 @@
 
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign character_pages = site.pages | where: "type", "character" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
+{% assign num_characters = character_pages.size %}
 
 <div id="background-image-home" style="
     min-width: 100%;
@@ -61,12 +63,15 @@
         <a href="{{ site.baseurl}}/bio/">
           <button class="ui basic button">{{ site.bio-page-label }}</button>
         </a>
-        <a href="{{ site.baseurl }}/achievements/">
-          <button class="ui basic button">{{ site.achievements-page-label }}</a></button>
+        <a href="{{ site.baseurl }}/achievements/" >
+          <button class="ui basic button" style="color: #b3c6cc !important;">{{ site.achievements-page-label }}</button>
         </a>
-        <a href="https://www.zeemaps.com/view?group=2086264&x=19.944980&y=50.064650&z=14">
-          <button class="ui basic button">Travel Map</a></button>
+        <a href="https://www.zeemaps.com/view?group=2086264&x=19.944980&y=50.064650&z=14" >
+          <button class="ui basic button" style="color: #b3c6cc !important;">Travel Map</button>
         </a>    
+        <a href="{{ site.baseurl}}/characters/">
+          <button class="ui basic button" style="color: #b3c6cc !important;">RPG Characters ({{ num_characters }})</button>
+        </a>
       </div>
     </div>
   </div>
