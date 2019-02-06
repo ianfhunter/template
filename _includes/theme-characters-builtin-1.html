@@ -1,0 +1,11 @@
+<div style="padding-top: 20px" class="ui container ">
+
+  <div class="ui stackable centered four cards">
+    {% assign character_pages = site.pages | where: "type", "character" | sort: "date" | reverse %}
+      {% for page in character_pages %}
+        {% unless page.draft %}
+          {% include character-card.html page=page %}
+        {% endunless %}
+      {% endfor %}
+  </div>
+</div>

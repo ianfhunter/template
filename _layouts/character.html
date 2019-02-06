@@ -1,0 +1,15 @@
+---
+layout: characters
+---
+
+<div style="margin-top: 20px; margin-bottom: 20px" class="ui text container">
+  <h1>{{ page.title }}</h1>
+
+  <div class="image" >
+    <img src="{{ site.baseurl }}/{{ page.image }}" style="max-height: 200px">
+  </div>
+
+  <span class="date">Level {{ page.level }} {{ page.race }} {{ page.class }}</span>
+  <hr>
+  {{ content }}
+</div>
