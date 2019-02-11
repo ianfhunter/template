@@ -6,7 +6,7 @@ title: Nazeem of the Thrük
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
 
-level: 4
+level: 6
 race: V Human
 class: Monk - Elemental
 alignment: Lawful Good
