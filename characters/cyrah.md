@@ -2,6 +2,7 @@
 layout: character
 type: character
 image: images/characters/cyrah.png
+pdf : pdfs/character/cyrah_character.pdf
 title: Cyrah Thorn
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10

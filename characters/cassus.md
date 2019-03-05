@@ -2,6 +2,7 @@
 layout: character
 type: character
 image: images/characters/cassus.jpg
+pdf : pdfs/character/cassus_character.pdf
 title: Cassuss Swiftfoot
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10

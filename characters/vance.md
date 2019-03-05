@@ -2,6 +2,7 @@
 layout: character
 type: character
 image: images/characters/vanceprof.png
+pdf : pdfs/character/vance_character.pdf
 title: Vance
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10

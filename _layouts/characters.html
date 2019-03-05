@@ -4,5 +4,79 @@ layout: default
 
 {% include menubar.html active="character" %}
 
+
+<style>
+    /* #Orange Flat Button
+    ==================================================
+    From: http://cssdeck.com/labs/beautiful-flat-buttons
+    */
+    .active-flat-button {
+        max-width: 120px  !important;
+        max-height: 36px !important;
+        position: relative;
+        vertical-align: top;
+        width: 100%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: #f39c12;
+        border: 0;
+        border-bottom: 2px solid #e8930c;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #e8930c;
+        box-shadow: inset 0 -2px #e8930c;
+        margin-bottom: 15px;
+    }
+    
+    /* #Clouds Flat Button
+    ==================================================*/
+    .inactive-flat-button {
+        max-width: 120px  !important;
+        max-height: 36px !important;
+        position: relative;
+        vertical-align: top;
+        width: 100%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color:#454545;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: #bdc3c7;
+        border: 0;
+        border-bottom: 2px solid #acb2b7;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #acb2b7;
+        box-shadow: inset 0 -2px #acb2b7;
+        margin-bottom: 15px;
+    }
+    .filter-title{
+        position: relative;
+        top: 5px;
+        display:inline-block
+    }
+</style>
+
+<div style="text-align: center">
+    <h2>Filters</h2>
+    <div>
+        <h3 class="filter-title">Availability:</h3>
+        <input type="submit" class="active-flat-button" value="All" />
+        <input type="submit" class="inactive-flat-button" value="In-Game" />
+        <input type="submit" class="inactive-flat-button" value="Resting" />
+        <input type="submit" class="inactive-flat-button" value="Backup" />
+    </div>        
+    <div>
+        <h3 class="filter-title">System:</h3>
+        <input type="submit" class="active-flat-button" value="All" />
+        <input type="submit" class="inactive-flat-button" value="D&D 5E" />
+        <input type="submit" class="inactive-flat-button" value="Numenera" />
+        <input type="submit" class="inactive-flat-button" value="GURPS" />
+    </div>        
+</div>
+
 {{ content }}
 

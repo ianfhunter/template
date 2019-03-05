@@ -2,6 +2,7 @@
 layout: character
 type: character
 image: images/characters/windwhistle.jpg
+pdf : pdfs/character/windwhistle_character.pdf
 title: Windwhistle
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10

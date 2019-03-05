@@ -2,6 +2,7 @@
 layout: character
 type: character
 image: images/characters/nazeem.jpg
+pdf : pdfs/character/nazeem_character.pdf
 title: Nazeem of the Thrük
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
