@@ -4,7 +4,47 @@ layout: default
 
 {% include menubar.html active="character" %}
 
+<script>
+    $(function(){
+        arr = [
+                "Resting",
+                "In-Game",
+                "Backup",
+                "Numenera",
+                "GURPS",
+                "DnD 5E",
+                "Backup"
+            ]
+        // Each button should hide all others.
+        for (var field in arr){
+            btn = $('body').find("input[value='"+arr[field]+"']")          
+            btn.click(function(){
+                field = $(this).attr("value")
+                for (var f2 in arr){
+                    console.log(field, f2, arr)
+                    
+                    if (arr[f2] == field){
+                        // only check the first name
+                        formatted = arr[f2].split(" ")[0]
+                        $("."+formatted).show()
+                    }else{
+                        console.log("Hide: ", arr[f2])
+                        $("."+arr[f2]).hide()
+                    }
+                }
+                console.log("End")
+            })
+        }
+        // Reset
+        btn = $('body').find("input[value='Clear']")
+        btn.click(function(){
+            for (var field in arr){
+                $("."+arr[field]).show()
+            }
+        })
 
+    })
+</script>
 <style>
     /* #Orange Flat Button
     ==================================================
@@ -62,20 +102,21 @@ layout: default
 
 <div style="text-align: center">
     <h2>Filters</h2>
+
     <div>
         <h3 class="filter-title">Availability:</h3>
-        <input type="submit" class="active-flat-button" value="All" />
         <input type="submit" class="inactive-flat-button" value="In-Game" />
         <input type="submit" class="inactive-flat-button" value="Resting" />
         <input type="submit" class="inactive-flat-button" value="Backup" />
     </div>        
     <div>
         <h3 class="filter-title">System:</h3>
-        <input type="submit" class="active-flat-button" value="All" />
-        <input type="submit" class="inactive-flat-button" value="D&D 5E" />
+        <input type="submit" class="inactive-flat-button" value="DnD 5E" />
         <input type="submit" class="inactive-flat-button" value="Numenera" />
         <input type="submit" class="inactive-flat-button" value="GURPS" />
     </div>        
+    <input type="submit" class="active-flat-button" value="Clear" />
+
 </div>
 
 {{ content }}

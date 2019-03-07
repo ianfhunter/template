@@ -13,7 +13,7 @@ class: Rogue (Swashbuckler)
 alignment: Lawful Good
 
 labels:
-  - D&D 5E
+  - DnD 5E
   - Resting
 ---
 

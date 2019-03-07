@@ -1,6 +1,6 @@
 <!-- Used by theme-characters-builtin-1 -->
 
-<div class="card">
+<div class="card {{ include.page.labels | array_to_sentence_string  }}">
   {% if include.page.image %}
     <div class="image">
       <img src="{{ site.baseurl }}/{{ include.page.image }}">

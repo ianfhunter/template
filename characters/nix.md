@@ -12,7 +12,7 @@ class: Barbarian (Tempest)
 alignment: Lawful Evil
 
 labels:
-  - D&D 5E
+  - DnD 5E
   - In-Game
 ---
 
