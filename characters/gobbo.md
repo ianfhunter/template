@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/gobbo.jpg
+image: images/characters/gobbo.png
 pdf : pdfs/character/gobbo.pdf
 title: Gobbo
 # All dates must be YYYY-MM-DD format!
