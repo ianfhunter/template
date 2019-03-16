@@ -14,7 +14,7 @@ labels:
 
 Skew
 
-![]https://ianfhunter.github.io/images/vrKSQDj.png)
+![](https://ianfhunter.github.io/images/vrKSQDj.png)
 
 Threshold
 
