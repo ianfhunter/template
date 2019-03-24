@@ -7,7 +7,7 @@ title: Ædwin Æsc "Ash"
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
 
-level: 8
+level: 9
 race: Half-Dryad
 class: Warlock (Fey / Fiend)
 alignment: Lawful Good
