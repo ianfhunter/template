@@ -1,9 +1,9 @@
 ---
 layout: character
 type: character
-image: images/characters/gobbo.png
-pdf : pdfs/character/gobbo.pdf
-title: Gobbo
+image: images/characters/swort.png
+pdf : pdfs/character/swort.pdf
+title: Skwort
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
 
@@ -14,12 +14,12 @@ alignment: Lawful Evil
 
 labels:
   - DnD 5E
-  - Backup
+  - In-Game
 ---
 
-Idea: Familiar is larger than him.
+Idea: Familiar is larger than her.
 
-How did he get so good?
+How did she get so good?
 
 Gobbo used thaumaturgy to cheat and make some fortune
-but, he did invest that in himself to study, so maybe he's not so bad?
+but, she did invest that in herself to study, so maybe she's not so bad?
