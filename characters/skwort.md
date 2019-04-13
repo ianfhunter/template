@@ -1,8 +1,8 @@
 ---
 layout: character
 type: character
-image: images/characters/swort.png
-pdf : pdfs/character/swort.pdf
+image: images/characters/skwort.png
+pdf : pdfs/character/skwort.pdf
 title: Skwort
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
