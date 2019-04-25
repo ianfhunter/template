@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/it.png
+image: images/characters/it.jpg
 pdf : pdfs/character/it_character.pdf
 title: Irwinn Todd "It"
 # All dates must be YYYY-MM-DD format!
