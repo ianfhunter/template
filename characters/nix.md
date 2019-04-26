@@ -13,7 +13,7 @@ alignment: Lawful Evil
 
 labels:
   - DnD 5E
-  - In-Game
+  - Resting
 ---
 
 # Backstory
