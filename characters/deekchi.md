@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/deekchi.jpg
+image: images/characters/even-amundsen-185-white-hair.jpg
 pdf : pdfs/character/deekchi_character.pdf
 title: Deekchi
 # All dates must be YYYY-MM-DD format!
