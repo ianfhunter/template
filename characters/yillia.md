@@ -6,7 +6,7 @@ title: Yillia Slywalker
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
 
-level: 3
+level: 4
 race: V. Human
 class: Ranger
 alignment: Lawful Good
