@@ -14,7 +14,7 @@ alignment: Lawful Evil
 
 labels:
   - DnD 5E
-  - In-Game
+  - Resting
 ---
 
 Idea: Familiar is larger than her.

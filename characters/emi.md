@@ -14,5 +14,5 @@ alignment: N/A
 
 labels:
   - Maid RPG
-  - In-Game
+  - Resting
 ---

@@ -14,7 +14,7 @@ alignment: N/A
 
 labels:
   - Shadow of the Demon Lord
-  - In-Game
+  - Resting
 ---
 
 Lived with both mother and father, both also fauns. It was a comfortable life in terms of lifestyle, but as a family, they were always at each others necks. Fauns really were suited to a more solitary life, and eventually he got fed up and left, leaving his mother alone , after his father left in disgrace a few years earlier
