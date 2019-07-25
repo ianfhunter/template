@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/z.png
+image: images/characters/z.jpg
 pdf : pdfs/character/z_character.pdf
 title: Zhetsizheih "Z" & Zezzapho
 # All dates must be YYYY-MM-DD format!
