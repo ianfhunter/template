@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/deke.png
+image: images/characters/deke.jpg
 pdf : pdfs/character/deke_character.pdf
 title: Deke Shunnery
 # All dates must be YYYY-MM-DD format!
