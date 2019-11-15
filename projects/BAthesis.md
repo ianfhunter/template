@@ -13,7 +13,7 @@ labels:
 summary: Optimizing Web Content Download in Low-Performance Networks.
 ---
 
-descriptionFor my Final Year Project, I designed, implemented & evaluated several exploratory techniques in an attempt to alleviate access costs of low-throughput or congested networks, such as those found in developing countries or crowded stadiums.
+For my Final Year Project, I designed, implemented & evaluated several exploratory techniques in an attempt to alleviate access costs of low-throughput or congested networks, such as those found in developing countries or crowded stadiums.
 
 The system consisted of several component areas that were developed on, including a both a remote and local proxy and on the browser itself. The system was developed in a combination of Python, Javascript, Node.JS and HTML.
 
