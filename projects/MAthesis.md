@@ -13,7 +13,7 @@ labels:
   - Tensorflow
   - Python
   - C++
-summary: TBA
+summary: Effective Index-Mapping of Quantized Values for  Low-Precision Neural Networks on Power-Efficient Embedded Devices
 ---
 
-In Progress
+Available on Request
