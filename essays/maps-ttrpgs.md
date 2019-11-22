@@ -4,6 +4,7 @@ type: essay
 title: Maps for TTRPGs
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-19
+draft: true
 labels:
   - Worldbuilding
   - Tabletop
