@@ -3,10 +3,9 @@ layout: essay
 type: essay
 title: Breadth-first Development
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-10
+date: 
 labels:
   - Engineering
-  - UnderConstruction
 ---
 
 In one of my past workplaces, I went to a introductory day where we had motivational speakers encourage us to 'be our best' and all the other cliché phrases you can imagine.
