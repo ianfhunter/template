@@ -4,9 +4,9 @@ type: essay
 title: Solo RPG for World Building Deep Dives
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-15
+draft: true
 labels:
   - Tabletop
-  - UnderConstruction
 ---
 
 
