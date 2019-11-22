@@ -3,7 +3,8 @@ layout: essay
 type: essay
 title: Breadth-first Development
 # All dates must be YYYY-MM-DD format!
-date: 
+date: 2018-09-10
+draft: true
 labels:
   - Engineering
 ---
