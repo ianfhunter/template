@@ -306,6 +306,12 @@
       "achievement_level": "low",
       "date": "2018"
     },
+    { 
+       "title": "Hacktoberfest participant",
+      "awarder": "Digital Ocean",
+      "achievement_level": "medium",
+      "date": "2018"
+    },
     {
       "title": "Dean's Role of Honour",
       "awarder": "Trinity College Dublin",
