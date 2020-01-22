@@ -307,16 +307,16 @@
       "date": "2018"
     },
     {
-      "title": "Entrance Scholarship",
-      "awarder": "King's Hospital",
-      "achievement_level": "medium",
-      "date": "2003"
-    },
-    {
       "title": "Dean's Role of Honour",
       "awarder": "Trinity College Dublin",
       "achievement_level": "medium",
       "date": "2013"
+    },
+    {
+      "title": "L1 – Basic Sewing Skills",
+      "awarder": "Sew Easy",
+      "achievement_level": "medium",
+      "date": "2019"
     },
     {
       "title": "Moderator & Top 3 Ranking",
@@ -373,6 +373,12 @@
       "date": "2012"
     },
     {
+      "title": "Entrance Scholarship",
+      "awarder": "King's Hospital",
+      "achievement_level": "high",
+      "date": "2003"
+    },
+    {
       "title": "Computer Science B.A(Mod) I.",
       "awarder": "Trinity College Dublin",
       "achievement_level": "high",
@@ -383,6 +389,12 @@
       "awarder": "Trinity College Dublin",
       "achievement_level": "high",
       "date": "2018"
-    }
+    },
+    {
+      "title": "Computer Science MCS (Pending)",
+      "awarder": "Trinity College Dublin",
+      "achievement_level": "high",
+      "date": "2019"
+    },
   ]
 }
