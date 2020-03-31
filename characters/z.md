@@ -2,7 +2,7 @@
 layout: character
 type: character
 image: images/characters/z.jpg
-pdf : pdfs/character/z_character.pdf
+pdf : pdfs/character/Zhetsizheih_Fighter_3.pdf
 title: Zhetsizheih "Z" & Zezzapho
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-10
