@@ -7,7 +7,7 @@ title: Zhetsizheih "Z" & Zezzapho
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-10
 
-level: 2
+level: 3
 race: Yuan-Ti Pureblood
 class: Fighter (Dragon Tamer)
 alignment: Chaotic Neutral
