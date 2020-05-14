@@ -7,14 +7,14 @@ title: Frills
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-12
 
-level: 1
+level: 3
 race: Tiefling
 class: Bard
 alignment: Chaotic Good
 
 labels:
   - DnD 5E
-  - In-Game
+  - Resting
 ---
 
 #Introduction & Background
