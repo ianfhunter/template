@@ -190,12 +190,48 @@
         "'Path to Live' Speedups",
         "Separation from monolithic joint repository to Individual team code base"
       ]
-    },
+    }, 
     {
-      "company": "Movidius/Intel",
+      "company": "Movidius",
       "position": "Embedded Vision Engineer",
       "website": "",
       "startDate": "2015-08-01",
+      "endDate": "2017-09-01",
+      "summary": "Full Neural Network USB Accelerator Lifecycle developer",
+      "highlights": [
+        "Resource Constrained Environments, Performance Criteria",
+        "Presented at release announcement conference",
+        "Working with several different culture teams",
+        "Evolved from direct customer interaction to managed releases",
+        "Future Design Proposals & Development",
+        "Infrastructure, Testing, Core Development, Driver Development",
+        "Lead several road-maps with frontend development, serialization, interface",
+        "Adaption to new hardware"
+      ]
+    },
+    {
+      "company": "Movidius/Intel",
+      "position": "Deep Learning Engineer",
+      "website": "",
+      "startDate": "2017-09-01",
+      "endDate": "2020-03-30",
+      "summary": "Full Neural Network USB Accelerator Lifecycle developer",
+      "highlights": [
+        "Resource Constrained Environments, Performance Criteria",
+        "Presented at release announcement conference",
+        "Working with several different culture teams",
+        "Evolved from direct customer interaction to managed releases",
+        "Future Design Proposals & Development",
+        "Infrastructure, Testing, Core Development, Driver Development",
+        "Lead several road-maps with frontend development, serialization, interface",
+        "Adaption to new hardware"
+      ]
+    },
+    {
+      "company": "Movidius/Intel",
+      "position": "Senior Deep Learning Engineer",
+      "website": "",
+      "startDate": "2020-03-30",
       "endDate": "Present",
       "summary": "Full Neural Network USB Accelerator Lifecycle developer",
       "highlights": [
