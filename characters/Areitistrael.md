@@ -17,16 +17,7 @@ labels:
 ---
 
 # Backstory
-
-< NONE >                                                              
-
-
-            
-
-
-
-
-
+<!---
 Areitistrael was an aasamir like any other up in Mount Celestia. She fought in some wars in her youth, visited the weak and frail on the material plane, standard good guy stuff. As a distant descendant of Kelemvor, she mostly ferried the dead to peace. 
 
 She didn’t know her parents well. She call recall vague memories, but not even their faces. They sent her off for celestial service at a young age, only recieving letters from them annually. She tried writing back, but they did not seem to reach them, and her questions were never answered.
@@ -43,3 +34,4 @@ Areitistrael got into lots of subsequent trouble after that, all from her own do
 
 Over the years, the fiend swapped souls and demons in and out of her head, each taking a heavy mental toll on Areitistrael. The latest of which, Dazzle, another soul in service to the same fiend - saved from the hellish abyss with another deal struck with the fiend. 
 When Dazzle entered, the fiend themselves left. Leaving her still possessed, but without quite so much effectiveness on her autonomy. Since this event, which was innoculous for her, but importantly strategic for the fiend, a message pressed on her mind from the new voice - the two words “Raven’s Mark”. She didnt know it might be malicious yet, so she followed it.
+--->
