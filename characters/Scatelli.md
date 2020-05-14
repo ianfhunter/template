@@ -7,14 +7,14 @@ title: Scattelli Vizovar
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
 
-level: 1
+level: 3
 race: High Elf
-class: Fighter
+class: Battlemaster Fighter
 alignment: Chaotic Good
 
 labels:
   - D&D
-  - In-Game
+  - Resting
 ---
 
 # Backstory
