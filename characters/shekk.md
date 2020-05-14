@@ -6,15 +6,18 @@ title: Shekk
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-10
 
-level: 2
+level: 4
 race: Half-Orc
-class: Paladin - No Oath
+class: Paladin - Redemption
 alignment: Lawful Good
 
 labels:
   - DnD 5E
-  - In-Game
+  - Resting
 ---
+
+# Adventure Logs
+https://www.rolegate.com/dd-the-lost-mines-of-phandelver
 
 # Backstory
 Shekk, previously known as "Blood-Drinker Shekk", spent a large portion of his youth in the orc hordes, looting and pillaging innocents. After one particular razing of a village, Shekk took a mortal wound from a stray pitchfork. His tribe left him for dead and marched onwards into the next town.
