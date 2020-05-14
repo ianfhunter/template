@@ -9,12 +9,12 @@ date: 2018-08-10
 
 level: 1
 race: Human
-class: Wizard
+class: Illusion Wizard
 alignment: Lawful Good
 
 labels:
   - DnD 5E
-  - In-Game
+  - Resting
 ---
 
 # Backstory
