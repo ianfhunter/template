@@ -7,7 +7,7 @@ title: Fylthia Manyshivs
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-14
 
-level: 1
+level: 3
 race: Goblin
 class: Monk
 alignment: Neutral Evil
