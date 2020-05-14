@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/jacque.jpg
+image: images/characters/jacque.png
 title: Slippery Jacque
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-10
