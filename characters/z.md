@@ -14,7 +14,7 @@ alignment: Chaotic Neutral
 
 labels:
   - DnD 5E
-  - In-Game
+  - Resting
 ---
 
 # Backstory
