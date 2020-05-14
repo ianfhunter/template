@@ -1,7 +1,7 @@
 ---
 layout: character
 type: character
-image: images/characters/Dazzle.jpg
+image: images/characters/dazzle.jpg
 pdf : pdfs/character/dazzle_character.pdf
 title: Dazzle
 # All dates must be YYYY-MM-DD format!
