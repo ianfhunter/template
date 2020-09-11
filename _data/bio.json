@@ -103,7 +103,8 @@
         "Refactoring",
         "Testing",
         "Project Planning",
-        "Agile Development"
+        "Agile Development",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -136,7 +137,8 @@
         "Advanced Computer Architecture",
         "Computer Graphics",
         "Distributed Systems",
-        "Human Factors"
+        "Human Factors",
+        "Thesis: Optimizing Web Content Downloaded in Low-Performance Networks"
       ]
     },
     {
@@ -147,6 +149,7 @@
       "endDate": "2019-09-31",
       "gpa": "",
       "courses": [
+        "Thesis: Effective Index-Mapping of Quantized Values for Low-Precision Neural Networks on Power-Efficient Embedded Devices"
       ]
     }
   ],
@@ -206,7 +209,9 @@
         "Future Design Proposals & Development",
         "Infrastructure, Testing, Core Development, Driver Development",
         "Lead several road-maps with frontend development, serialization, interface",
-        "Adaption to new hardware"
+        "Adaption to new hardware",
+        "COVID-19 Essential Maintenance",
+        "Intel Software Professionals 3 Track Reviewer"
       ]
     },
     {
